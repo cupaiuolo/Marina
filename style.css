@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(001, 001, 001);
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
