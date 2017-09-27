@@ -14,19 +14,19 @@ h1 {
 
 p {
     font-family: helvetica;
-    font-size: 20px;
+    font-size: 50px;
     color: white;
     text-align: center;
-	
+    
 }
 .row {
- text-align: center;	
+ text-align: center;    
  margin: auto;
 }
 .marina {
 }
 .bottomline {
-border-bottom: 1px solid rgb(256, 99, 99);	
+border-bottom: 1px solid rgb(256, 99, 99);  
 margin-bottom: 1cm;
 margin-top: 1cm;
 }
